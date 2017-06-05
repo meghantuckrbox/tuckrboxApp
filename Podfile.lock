@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - Bolts (1.8.0):
+    - Bolts/AppLinks (= 1.8.0)
+    - Bolts/Tasks (= 1.8.0)
+  - Bolts/AppLinks (1.8.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.0)
+  - FBSDKCoreKit (4.13.1):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.13.1):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.13.1):
+    - FBSDKCoreKit
+  - ROKO.Mobi (1.8.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireImage (~> 2.0)
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - ROKO.Mobi
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  Bolts: 127daec4981dab569d07314c198dfcae47f4ce4c
+  FBSDKCoreKit: 2807fe0da2ddb49a1469da6d6ff597f99912980f
+  FBSDKLoginKit: 6d350cb6a22d6956e9d078885de6ee8a0ebc51b4
+  FBSDKShareKit: c9438df7573b33780ac8c3451201c5ebb260ffca
+  ROKO.Mobi: 323e31e35d4bc432ef653180e8e58204a6a27570
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 7c4c9bed01d3e82213c49b8ad321c1a5aecf3c7a
+
+COCOAPODS: 1.0.1
